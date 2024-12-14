@@ -12,3 +12,18 @@ Updated to UE-5.5
 
 
 
+2, Hologram Projector
+
+original from :
+https://www.parallelcube.com/2021/03/06/niagara-particle-system/
+
+Updated to UE-5.5
+
+
+
+![Sequence 01](https://github.com/user-attachments/assets/6c90a355-a2db-40b7-a137-97b015945ffb)
+
+
+
+
+
