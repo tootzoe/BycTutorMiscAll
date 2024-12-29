@@ -32,3 +32,14 @@ original from : https://forums.unrealengine.com/t/how-to-move-a-widget-panel-whe
 
 ![Sequence 01](https://github.com/user-attachments/assets/c6e19059-763a-432a-9b2c-a9cfb388b2d9)
 
+
+
+
+4,  add dragable flow UI window, method 2 (UI_floatWnd2Main), this method add widgets to viewport directly....
+
+
+![Sequence 01](https://github.com/user-attachments/assets/d48726a7-4289-439c-893a-8dc6fcf2bb0b)
+
+
+
+
